@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class Filter_Ex {
 	public static void main(String[] args) {
 		Map<Integer,String> map=new HashMap<>();
-		map.put(1, "Bhavin");
+		map.put(1, "parth");
 		map.put(2, "Dhruv");
 		String result="";
 		 result=map.entrySet().stream()
